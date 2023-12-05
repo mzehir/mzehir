@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Mümin - aka [Me on Linkedin][linkedin] 👋
 
-<!--
-**mzehir/mzehir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### ⚡ Languages and Tools	:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,html,css,nodejs,js,ts,jquery)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vue,materialui,bootstrap,git,postman)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- start work experience section -->
+### ⚡ Work Experience :seedling:
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://www.harmonyerp.com.tr/">Web Development</a></b></td>
+      <td>- Frontend development using React.js, Vue.js, TypeScript, MUI, DevExtreme, vs...<br>- Integration tests using Cypress.</td>
+      <td rowspan="3">December 2019 - Present</td>
+    </tr>
+  </tbody>
+</table>
+<!-- end work experience section -->
+
+[linkedin]: https://www.linkedin.com/in/muminzehir54/
+[stackoverflow]: https://stackoverflow.com/users/13913907/m%c3%bcmin-zeh%c4%b0r
+[medium]: https://medium.com/@zehir.m.54
